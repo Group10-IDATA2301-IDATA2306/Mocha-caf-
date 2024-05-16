@@ -11,9 +11,13 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .vscode/
 node_modules
+build
 
 # dependencies
 /node_modules
+
+# static build
+/build
 
 # misc
 .env
